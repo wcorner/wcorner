@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "wcorner-sapper-web",
+  "name": "wcorner-web",
   "description": "Sapper frontend",
   "version": "0.0.1",
   "scripts": {
