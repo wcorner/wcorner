@@ -1,4 +1,4 @@
-# W Corner Sapper
+# W Corner
 
 _Fully customizable blog template with a Svelte.js front-end._
 
