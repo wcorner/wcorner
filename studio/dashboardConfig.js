@@ -20,13 +20,13 @@ export default {
                 {
                   buildHookId: '5d6d61ea126d1e9b06a15495',
                   title: 'Sanity Studio',
-                  name: 'wcorner-sapper-studio',
+                  name: 'wcorner-studio',
                   apiId: '9187c728-ed42-4c99-aac3-717ba3db0aa4'
                 },
                 {
                   buildHookId: '5d6d61ea8674004d562b9971',
-                  title: 'Blog Website',
-                  name: 'wcorner-sapper',
+                  title: 'W Corner Website',
+                  name: 'wcorner',
                   apiId: 'ca3df6c4-8189-4023-a240-09a404fb8dd2'
                 }
               ]
@@ -36,10 +36,10 @@ export default {
         data: [
           {
             title: 'GitHub repo',
-            value: 'https://github.com/wcorner/wcorner-sapper',
+            value: 'https://github.com/wcorner/wcorner',
             category: 'Code'
           },
-          {title: 'Frontend', value: 'https://wcorner-sapper.netlify.com', category: 'apps'}
+          {title: 'Frontend', value: 'https://wcorner.netlify.com', category: 'apps'}
         ]
       }
     },
