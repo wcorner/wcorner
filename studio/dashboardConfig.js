@@ -18,12 +18,6 @@ export default {
                 'NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.',
               sites: [
                 {
-                  buildHookId: '5d6d61ea126d1e9b06a15495',
-                  title: 'Sanity Studio',
-                  name: 'wcorner-studio',
-                  apiId: '9187c728-ed42-4c99-aac3-717ba3db0aa4'
-                },
-                {
                   buildHookId: '5d6d61ea8674004d562b9971',
                   title: 'W Corner Website',
                   name: 'wcorner',
